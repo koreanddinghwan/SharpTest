@@ -1,0 +1,17 @@
+{
+  "name": "sharptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sharp": "^0.31.1",
+    "sharp": "^0.31.3"
+  }
+}
